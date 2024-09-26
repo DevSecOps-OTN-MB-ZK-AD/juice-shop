@@ -248,4 +248,5 @@ OWASP Juice Shop and any contributions are Copyright © by Bjoern Kimminich & th
 2014-2024.
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_400px.png)
-test
+
+[![Quality Gate Status](https://sonarqube.oliviertremblaynoel.com/api/project_badges/measure?project=my%3Aproject&metric=alert_status&token=sqb_a07d3993562a1ea205dda7ff31db5ec92837b6ee)](https://sonarqube.oliviertremblaynoel.com/dashboard?id=my%3Aproject)
